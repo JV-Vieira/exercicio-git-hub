@@ -1,7 +1,7 @@
 # Git e GitHub - Exercicios   
 
 ## Dupla:
-- Nome do integrante 1: [GitHub](https://github.com/<usuario>)
+- Nome do integrante 1: [GitHub](https://github.com/rednand)
 - Nome do integrante 2: [GitHub](https://github.com/<usuario>)
 
 ### Confingurações do Git
